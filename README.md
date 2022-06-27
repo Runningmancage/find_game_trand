@@ -21,7 +21,8 @@
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/106293559/175892786-ff480c30-b25a-4091-b36c-f609e618316d.png">
 
 - 지역에 따라 선호하는 게임장르(Bar 그래프)
-- <img width="419" alt="image" src="https://user-images.githubusercontent.com/106293559/175893035-ab38e39f-553a-4b4c-bbc3-335ba17758f0.png">
+![image](https://user-images.githubusercontent.com/106293559/175893995-c65c5d3d-5a6a-446d-b705-fcd06ee3fb8b.png)
+
 
 📌 연도별 게임 트랜드 확인
 
@@ -31,3 +32,19 @@
 
 -연도별 게임트랜드의 변화(Bar 그래프)
 ![image](https://user-images.githubusercontent.com/106293559/175893747-47de0a06-7638-496d-8116-57130f35df58.png)
+
+📌 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
+
+-판매량(Sales) 기준 상위 20개 게임의 장르별 판매량(Pie 그래프)
+![image](https://user-images.githubusercontent.com/106293559/175894753-20b7401a-80b9-4892-803a-21dae3a72067.png)
+
+
+-판매량(Sales) 기준 상위 20개 게임의 플랫폼별 판매량(Pie 그래프)
+![image](https://user-images.githubusercontent.com/106293559/175894839-7d3f6333-503b-426b-8fad-d5aa1b0ac1d5.png)
+
+-전체 게임의 연도별, 플랫폼별 판매량(Bar 그래프)
+![image](https://user-images.githubusercontent.com/106293559/175895150-8dbab67e-9dd1-45cc-8ea2-e56edc36a65b.png)
+
+-전체 게임 대상으로 판매량 기준 상위 10개 플랫폼별 판매량(Pie 그래프)
+![image](https://user-images.githubusercontent.com/106293559/175895368-4026833d-bdfa-42b9-934a-688f4e900d1e.png)
+
